@@ -33,7 +33,7 @@ body {
 }
 
 form{
-  background-color: rgba(0,0,0,0.5);
+  background-color: #4554;
   backdrop-filter: saturate(180%)blur(20px);
 }
 
